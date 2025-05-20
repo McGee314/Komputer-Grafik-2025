@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dord7eqoyguex"
+path="res://.godot/imported/path-stones-long.obj-10ef829b36ed5f8d1a439c74955883a8.mesh"
+
+[deps]
+
+files=["res://.godot/imported/path-stones-long.obj-10ef829b36ed5f8d1a439c74955883a8.mesh"]
+
+source_file="res://City Kit Suburban/Models/OBJ format/path-stones-long.obj"
+dest_files=["res://.godot/imported/path-stones-long.obj-10ef829b36ed5f8d1a439c74955883a8.mesh", "res://.godot/imported/path-stones-long.obj-10ef829b36ed5f8d1a439c74955883a8.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

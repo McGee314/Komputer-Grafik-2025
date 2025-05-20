@@ -1,0 +1,68 @@
+/Users/samudera/Downloads/[KG2023_3_D4_2021]_Modul1_000/.godot/mono/temp/bin/Debug/[KG2023_3_D4_2021]_Modul1_000.deps.json
+/Users/samudera/Downloads/[KG2023_3_D4_2021]_Modul1_000/.godot/mono/temp/bin/Debug/[KG2023_3_D4_2021]_Modul1_000.runtimeconfig.json
+/Users/samudera/Downloads/[KG2023_3_D4_2021]_Modul1_000/.godot/mono/temp/bin/Debug/[KG2023_3_D4_2021]_Modul1_000.dll
+/Users/samudera/Downloads/[KG2023_3_D4_2021]_Modul1_000/.godot/mono/temp/bin/Debug/[KG2023_3_D4_2021]_Modul1_000.pdb
+/Users/samudera/Downloads/[KG2023_3_D4_2021]_Modul1_000/.godot/mono/temp/bin/Debug/GodotSharp.dll
+/Users/samudera/Downloads/[KG2023_3_D4_2021]_Modul1_000/.godot/mono/temp/bin/Debug/GodotSharpEditor.dll
+/Users/samudera/Downloads/[KG2023_3_D4_2021]_Modul1_000/.godot/mono/temp/obj/Debug/[KG2023_3_D4_2021]_Modul1_000.csproj.AssemblyReference.cache
+/Users/samudera/Downloads/[KG2023_3_D4_2021]_Modul1_000/.godot/mono/temp/obj/Debug/[KG2023_3_D4_2021]_Modul1_000.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samudera/Downloads/[KG2023_3_D4_2021]_Modul1_000/.godot/mono/temp/obj/Debug/[KG2023_3_D4_2021]_Modul1_000.AssemblyInfoInputs.cache
+/Users/samudera/Downloads/[KG2023_3_D4_2021]_Modul1_000/.godot/mono/temp/obj/Debug/[KG2023_3_D4_2021]_Modul1_000.AssemblyInfo.cs
+/Users/samudera/Downloads/[KG2023_3_D4_2021]_Modul1_000/.godot/mono/temp/obj/Debug/[KG2023_3_D4_2021]_Modul1_000.csproj.CoreCompileInputs.cache
+/Users/samudera/Downloads/[KG2023_3_D4_2021]_Modul1_000/.godot/mono/temp/obj/Debug/[KG2023_.350DB7D9.Up2Date
+/Users/samudera/Downloads/[KG2023_3_D4_2021]_Modul1_000/.godot/mono/temp/obj/Debug/[KG2023_3_D4_2021]_Modul1_000.dll
+/Users/samudera/Downloads/[KG2023_3_D4_2021]_Modul1_000/.godot/mono/temp/obj/Debug/refint/[KG2023_3_D4_2021]_Modul1_000.dll
+/Users/samudera/Downloads/[KG2023_3_D4_2021]_Modul1_000/.godot/mono/temp/obj/Debug/[KG2023_3_D4_2021]_Modul1_000.pdb
+/Users/samudera/Downloads/[KG2023_3_D4_2021]_Modul1_000/.godot/mono/temp/obj/Debug/[KG2023_3_D4_2021]_Modul1_000.genruntimeconfig.cache
+/Users/samudera/Downloads/[KG2023_3_D4_2021]_Modul1_000/.godot/mono/temp/obj/Debug/ref/[KG2023_3_D4_2021]_Modul1_000.dll
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/[KG2025_2B_D4_2023]_Modul1_058/.godot/mono/temp/bin/Debug/[KG2023_3_D4_2021]_Modul1_000.deps.json
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/[KG2025_2B_D4_2023]_Modul1_058/.godot/mono/temp/bin/Debug/[KG2023_3_D4_2021]_Modul1_000.runtimeconfig.json
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/[KG2025_2B_D4_2023]_Modul1_058/.godot/mono/temp/bin/Debug/[KG2023_3_D4_2021]_Modul1_000.dll
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/[KG2025_2B_D4_2023]_Modul1_058/.godot/mono/temp/bin/Debug/[KG2023_3_D4_2021]_Modul1_000.pdb
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/[KG2025_2B_D4_2023]_Modul1_058/.godot/mono/temp/bin/Debug/GodotSharp.dll
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/[KG2025_2B_D4_2023]_Modul1_058/.godot/mono/temp/bin/Debug/GodotSharpEditor.dll
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/[KG2025_2B_D4_2023]_Modul1_058/.godot/mono/temp/obj/Debug/[KG2023_3_D4_2021]_Modul1_000.csproj.AssemblyReference.cache
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/[KG2025_2B_D4_2023]_Modul1_058/.godot/mono/temp/obj/Debug/[KG2023_3_D4_2021]_Modul1_000.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/[KG2025_2B_D4_2023]_Modul1_058/.godot/mono/temp/obj/Debug/[KG2023_3_D4_2021]_Modul1_000.AssemblyInfoInputs.cache
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/[KG2025_2B_D4_2023]_Modul1_058/.godot/mono/temp/obj/Debug/[KG2023_3_D4_2021]_Modul1_000.AssemblyInfo.cs
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/[KG2025_2B_D4_2023]_Modul1_058/.godot/mono/temp/obj/Debug/[KG2023_3_D4_2021]_Modul1_000.csproj.CoreCompileInputs.cache
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/[KG2025_2B_D4_2023]_Modul1_058/.godot/mono/temp/obj/Debug/[KG2023_.350DB7D9.Up2Date
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/[KG2025_2B_D4_2023]_Modul1_058/.godot/mono/temp/obj/Debug/[KG2023_3_D4_2021]_Modul1_000.dll
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/[KG2025_2B_D4_2023]_Modul1_058/.godot/mono/temp/obj/Debug/refint/[KG2023_3_D4_2021]_Modul1_000.dll
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/[KG2025_2B_D4_2023]_Modul1_058/.godot/mono/temp/obj/Debug/[KG2023_3_D4_2021]_Modul1_000.pdb
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/[KG2025_2B_D4_2023]_Modul1_058/.godot/mono/temp/obj/Debug/[KG2023_3_D4_2021]_Modul1_000.genruntimeconfig.cache
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/[KG2025_2B_D4_2023]_Modul1_058/.godot/mono/temp/obj/Debug/ref/[KG2023_3_D4_2021]_Modul1_000.dll
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/W3/[KG2025_2B_D4_2023]_Modul3_058/.godot/mono/temp/bin/Debug/[KG2023_3_D4_2021]_Modul1_000.deps.json
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/W3/[KG2025_2B_D4_2023]_Modul3_058/.godot/mono/temp/bin/Debug/[KG2023_3_D4_2021]_Modul1_000.runtimeconfig.json
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/W3/[KG2025_2B_D4_2023]_Modul3_058/.godot/mono/temp/bin/Debug/[KG2023_3_D4_2021]_Modul1_000.dll
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/W3/[KG2025_2B_D4_2023]_Modul3_058/.godot/mono/temp/bin/Debug/[KG2023_3_D4_2021]_Modul1_000.pdb
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/W3/[KG2025_2B_D4_2023]_Modul3_058/.godot/mono/temp/bin/Debug/GodotSharp.dll
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/W3/[KG2025_2B_D4_2023]_Modul3_058/.godot/mono/temp/bin/Debug/GodotSharpEditor.dll
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/W3/[KG2025_2B_D4_2023]_Modul3_058/.godot/mono/temp/obj/Debug/[KG2023_3_D4_2021]_Modul1_000.csproj.AssemblyReference.cache
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/W3/[KG2025_2B_D4_2023]_Modul3_058/.godot/mono/temp/obj/Debug/[KG2023_3_D4_2021]_Modul1_000.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/W3/[KG2025_2B_D4_2023]_Modul3_058/.godot/mono/temp/obj/Debug/[KG2023_3_D4_2021]_Modul1_000.AssemblyInfoInputs.cache
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/W3/[KG2025_2B_D4_2023]_Modul3_058/.godot/mono/temp/obj/Debug/[KG2023_3_D4_2021]_Modul1_000.AssemblyInfo.cs
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/W3/[KG2025_2B_D4_2023]_Modul3_058/.godot/mono/temp/obj/Debug/[KG2023_3_D4_2021]_Modul1_000.csproj.CoreCompileInputs.cache
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/W3/[KG2025_2B_D4_2023]_Modul3_058/.godot/mono/temp/obj/Debug/[KG2023_.350DB7D9.Up2Date
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/W3/[KG2025_2B_D4_2023]_Modul3_058/.godot/mono/temp/obj/Debug/[KG2023_3_D4_2021]_Modul1_000.dll
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/W3/[KG2025_2B_D4_2023]_Modul3_058/.godot/mono/temp/obj/Debug/refint/[KG2023_3_D4_2021]_Modul1_000.dll
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/W3/[KG2025_2B_D4_2023]_Modul3_058/.godot/mono/temp/obj/Debug/[KG2023_3_D4_2021]_Modul1_000.pdb
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/W3/[KG2025_2B_D4_2023]_Modul3_058/.godot/mono/temp/obj/Debug/[KG2023_3_D4_2021]_Modul1_000.genruntimeconfig.cache
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/W3/[KG2025_2B_D4_2023]_Modul3_058/.godot/mono/temp/obj/Debug/ref/[KG2023_3_D4_2021]_Modul1_000.dll
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/W4/[KG2025_2B_D4_2023]_Modul4_058/.godot/mono/temp/bin/Debug/[KG2023_3_D4_2021]_Modul1_000.deps.json
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/W4/[KG2025_2B_D4_2023]_Modul4_058/.godot/mono/temp/bin/Debug/[KG2023_3_D4_2021]_Modul1_000.runtimeconfig.json
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/W4/[KG2025_2B_D4_2023]_Modul4_058/.godot/mono/temp/bin/Debug/[KG2023_3_D4_2021]_Modul1_000.dll
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/W4/[KG2025_2B_D4_2023]_Modul4_058/.godot/mono/temp/bin/Debug/[KG2023_3_D4_2021]_Modul1_000.pdb
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/W4/[KG2025_2B_D4_2023]_Modul4_058/.godot/mono/temp/bin/Debug/GodotSharp.dll
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/W4/[KG2025_2B_D4_2023]_Modul4_058/.godot/mono/temp/bin/Debug/GodotSharpEditor.dll
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/W4/[KG2025_2B_D4_2023]_Modul4_058/.godot/mono/temp/obj/Debug/[KG2023_3_D4_2021]_Modul1_000.csproj.AssemblyReference.cache
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/W4/[KG2025_2B_D4_2023]_Modul4_058/.godot/mono/temp/obj/Debug/[KG2023_3_D4_2021]_Modul1_000.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/W4/[KG2025_2B_D4_2023]_Modul4_058/.godot/mono/temp/obj/Debug/[KG2023_3_D4_2021]_Modul1_000.AssemblyInfoInputs.cache
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/W4/[KG2025_2B_D4_2023]_Modul4_058/.godot/mono/temp/obj/Debug/[KG2023_3_D4_2021]_Modul1_000.AssemblyInfo.cs
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/W4/[KG2025_2B_D4_2023]_Modul4_058/.godot/mono/temp/obj/Debug/[KG2023_3_D4_2021]_Modul1_000.csproj.CoreCompileInputs.cache
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/W4/[KG2025_2B_D4_2023]_Modul4_058/.godot/mono/temp/obj/Debug/[KG2023_.350DB7D9.Up2Date
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/W4/[KG2025_2B_D4_2023]_Modul4_058/.godot/mono/temp/obj/Debug/[KG2023_3_D4_2021]_Modul1_000.dll
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/W4/[KG2025_2B_D4_2023]_Modul4_058/.godot/mono/temp/obj/Debug/refint/[KG2023_3_D4_2021]_Modul1_000.dll
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/W4/[KG2025_2B_D4_2023]_Modul4_058/.godot/mono/temp/obj/Debug/[KG2023_3_D4_2021]_Modul1_000.pdb
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/W4/[KG2025_2B_D4_2023]_Modul4_058/.godot/mono/temp/obj/Debug/[KG2023_3_D4_2021]_Modul1_000.genruntimeconfig.cache
+/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/W4/[KG2025_2B_D4_2023]_Modul4_058/.godot/mono/temp/obj/Debug/ref/[KG2023_3_D4_2021]_Modul1_000.dll

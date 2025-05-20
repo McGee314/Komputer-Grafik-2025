@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "uJd8HLlfV1E=",
+  "success": true,
+  "projectFilePath": "/Users/samudera/Bagja/Kuliah/Semester_4/Komputer Grafik/Praktikum/W5/[KG2025_2B_D4_2023]_Modul5_058/[KG2023_3_D4_2021]_Modul1_000.csproj",
+  "expectedPackageFiles": [
+    "/Users/samudera/.nuget/packages/godot.sourcegenerators/4.3.0/godot.sourcegenerators.4.3.0.nupkg.sha512",
+    "/Users/samudera/.nuget/packages/godotsharp/4.3.0/godotsharp.4.3.0.nupkg.sha512",
+    "/Users/samudera/.nuget/packages/godotsharpeditor/4.3.0/godotsharpeditor.4.3.0.nupkg.sha512",
+    "/Users/samudera/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/samudera/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,41 @@
+[gd_scene load_steps=3 format=3 uid="uid://b2yoxsivfisgl"]
+
+[ext_resource type="Script" path="res://ScriptCSharp/karya2.cs" id="1_mmnyd"]
+[ext_resource type="Script" path="res://ScriptCSharp/karya2_btn.cs" id="2_h13yk"]
+
+[node name="karya2" type="Node2D"]
+script = ExtResource("1_mmnyd")
+
+[node name="Control" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 173.0
+offset_bottom = 137.0
+
+[node name="BtnBack" type="Button" parent="Control"]
+layout_mode = 2
+offset_left = 54.0
+offset_top = 47.0
+offset_right = 99.0
+offset_bottom = 78.0
+size_flags_horizontal = 4
+size_flags_vertical = 4
+text = "Back"
+script = ExtResource("2_h13yk")
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Control"]
+layout_mode = 0
+offset_left = 411.0
+offset_top = -69.0
+offset_right = 816.0
+offset_bottom = 120.0
+alignment = 1
+
+[node name="Title" type="Label" parent="Control/VBoxContainer"]
+layout_mode = 2
+text = "Tekan Tombol 2 untuk melihat Bunga dengan 2 Elips
+"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[connection signal="pressed" from="Control/BtnBack" to="Control/BtnBack" method="On_BtnBack_Pressed"]

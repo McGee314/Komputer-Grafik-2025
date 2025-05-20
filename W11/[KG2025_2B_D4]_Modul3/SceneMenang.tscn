@@ -1,0 +1,38 @@
+[gd_scene load_steps=3 format=3 uid="uid://crqiedp44yc7y"]
+
+[ext_resource type="Script" path="res://Script/SceneMenang.cs" id="1_2rmir"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBoxFlat_rsw1l"]
+bg_color = Color(0.54902, 0.521569, 0.521569, 1)
+
+[node name="SceneMenang" type="Control"]
+layout_mode = 3
+anchors_preset = 0
+script = ExtResource("1_2rmir")
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="Label2" type="Label" parent="CanvasLayer"]
+modulate = Color(0.99, 1, 1, 1)
+show_behind_parent = true
+top_level = true
+offset_left = 459.0
+offset_top = 285.0
+offset_right = 715.0
+offset_bottom = 432.0
+theme_override_colors/font_color = Color(1, 1, 1, 0.988235)
+theme_override_colors/font_outline_color = Color(0, 0, 0, 1)
+theme_override_styles/normal = SubResource("StyleBoxFlat_rsw1l")
+text = "You Win!"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="RestartButton" type="Button" parent="."]
+layout_mode = 0
+offset_left = 554.0
+offset_top = 435.0
+offset_right = 619.0
+offset_bottom = 466.0
+text = "Restart"
+
+[connection signal="pressed" from="RestartButton" to="." method="OnRestartButtonPressed"]

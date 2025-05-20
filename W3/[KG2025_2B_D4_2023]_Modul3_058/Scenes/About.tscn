@@ -1,0 +1,64 @@
+[gd_scene load_steps=5 format=3 uid="uid://dp8e60txn3re3"]
+
+[ext_resource type="Script" path="res://ScriptCSharp/about.cs" id="1_tti7l"]
+[ext_resource type="Texture2D" uid="uid://dwb24tcacm3ou" path="res://Assets/r1r5dvu.png" id="2_6o11n"]
+[ext_resource type="FontFile" uid="uid://by4r53q8xtfbv" path="res://Assets/ANDYB.TTF" id="3_o4lqm"]
+[ext_resource type="AudioStream" uid="uid://cndcet56cj8w2" path="res://19 - Minish Woods - The Legend Of Zelda The Minish Cap OST.mp3" id="4_en051"]
+
+[node name="About" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_right = 640.0
+offset_bottom = 360.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_tti7l")
+
+[node name="MarginContainer" type="MarginContainer" parent="."]
+layout_mode = 0
+anchor_right = 1.0
+anchor_bottom = 1.0
+
+[node name="VBoxContainer" type="VBoxContainer" parent="MarginContainer"]
+layout_mode = 2
+alignment = 1
+
+[node name="Sprite2D" type="Sprite2D" parent="MarginContainer/VBoxContainer"]
+position = Vector2(956, 540)
+scale = Vector2(1, 1.00185)
+texture = ExtResource("2_6o11n")
+
+[node name="Title" type="Label" parent="MarginContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 4
+theme_override_fonts/font = ExtResource("3_o4lqm")
+text = "Perkenalkan Nama Saya: "
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="HBoxContainer" type="HBoxContainer" parent="MarginContainer/VBoxContainer"]
+layout_mode = 2
+alignment = 1
+
+[node name="LabelIdentitas" type="Label" parent="MarginContainer/VBoxContainer/HBoxContainer"]
+layout_mode = 2
+size_flags_vertical = 1
+theme_override_fonts/font = ExtResource("3_o4lqm")
+text = "Nama: Muhammad Samudera Bagja
+Kelas: D4 2B
+NIM: 058"
+horizontal_alignment = 1
+vertical_alignment = 1
+
+[node name="BtnBack" type="Button" parent="MarginContainer/VBoxContainer"]
+layout_mode = 2
+size_flags_horizontal = 4
+size_flags_vertical = 4
+theme_override_fonts/font = ExtResource("3_o4lqm")
+text = "Back"
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("4_en051")
+autoplay = true

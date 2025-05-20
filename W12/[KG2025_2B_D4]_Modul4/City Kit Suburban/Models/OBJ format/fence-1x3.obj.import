@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cpxhpj3alhgxb"
+path="res://.godot/imported/fence-1x3.obj-73a34bbc9a21a71d2fe1005f8a3a714e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/fence-1x3.obj-73a34bbc9a21a71d2fe1005f8a3a714e.mesh"]
+
+source_file="res://City Kit Suburban/Models/OBJ format/fence-1x3.obj"
+dest_files=["res://.godot/imported/fence-1x3.obj-73a34bbc9a21a71d2fe1005f8a3a714e.mesh", "res://.godot/imported/fence-1x3.obj-73a34bbc9a21a71d2fe1005f8a3a714e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

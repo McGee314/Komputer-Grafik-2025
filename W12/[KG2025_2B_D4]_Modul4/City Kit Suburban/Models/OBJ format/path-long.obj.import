@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://7lpa1no1onrl"
+path="res://.godot/imported/path-long.obj-361aad5c2f81e2632498e099380ccd10.mesh"
+
+[deps]
+
+files=["res://.godot/imported/path-long.obj-361aad5c2f81e2632498e099380ccd10.mesh"]
+
+source_file="res://City Kit Suburban/Models/OBJ format/path-long.obj"
+dest_files=["res://.godot/imported/path-long.obj-361aad5c2f81e2632498e099380ccd10.mesh", "res://.godot/imported/path-long.obj-361aad5c2f81e2632498e099380ccd10.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

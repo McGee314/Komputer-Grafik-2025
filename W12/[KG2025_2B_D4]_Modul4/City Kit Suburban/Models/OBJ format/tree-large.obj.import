@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://c062dp45gvlmo"
+path="res://.godot/imported/tree-large.obj-462d8dcbeab97057412912207557d43a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tree-large.obj-462d8dcbeab97057412912207557d43a.mesh"]
+
+source_file="res://City Kit Suburban/Models/OBJ format/tree-large.obj"
+dest_files=["res://.godot/imported/tree-large.obj-462d8dcbeab97057412912207557d43a.mesh", "res://.godot/imported/tree-large.obj-462d8dcbeab97057412912207557d43a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

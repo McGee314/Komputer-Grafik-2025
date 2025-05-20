@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bi6geswgsop7m"
+path="res://.godot/imported/driveway-short.obj-46604115f88ab59e5f0b4e4206884550.mesh"
+
+[deps]
+
+files=["res://.godot/imported/driveway-short.obj-46604115f88ab59e5f0b4e4206884550.mesh"]
+
+source_file="res://City Kit Suburban/Models/OBJ format/driveway-short.obj"
+dest_files=["res://.godot/imported/driveway-short.obj-46604115f88ab59e5f0b4e4206884550.mesh", "res://.godot/imported/driveway-short.obj-46604115f88ab59e5f0b4e4206884550.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

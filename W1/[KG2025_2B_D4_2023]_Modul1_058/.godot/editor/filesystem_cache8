@@ -1,0 +1,40 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1740384522
+19 - Minish Woods - The Legend Of Zelda The Minish Cap OST.mp3::AudioStreamMP3::5691619090803303635::1739406003::1739700945::1::::<><>::
+default_env.tres::Environment::5344301992357008986::1739932180::0::1::::<><>::
+icon.png::CompressedTexture2D::4716062227394971956::1673649852::1739324994::1::::<><>::
+::res://Assets/::1739717843
+(n) 1.png::CompressedTexture2D::1112807549280384534::1739707483::1739707486::1::::<><>::
+ANDYB.TTF::FontFile::4131907145469320563::1739708546::1739708546::1::::<><>::
+custom-terraria-logo.png::CompressedTexture2D::6207467749750750416::1739708221::1739708224::1::::<><>::
+r1r5dvu.png::CompressedTexture2D::8707173136734450656::1739717836::1739717843::1::::<><>::
+si_juki_boleh_juga.png::CompressedTexture2D::8965030879561339497::1673656296::1739324994::1::::<><>::
+si_juki_bubar.png::CompressedTexture2D::6867083943657561054::1673656256::1739324994::1::::<><>::
+si_juki_leh_uga.png::CompressedTexture2D::4955050664537433463::1673656304::1739324994::1::::<><>::
+si_juki_nice_info.png::CompressedTexture2D::2556565073597568399::1673656314::1739324994::1::::<><>::
+si_juki_terus.png::CompressedTexture2D::2095904591318779963::1673656264::1739324994::1::::<><>::
+::res://Scenes/::1739932180
+About.tscn::PackedScene::8280518742614424120::1739932180::0::1::::<><>::res://ScriptCSharp/about.cs<>uid://dwb24tcacm3ou::::res://Assets/r1r5dvu.png<>uid://by4r53q8xtfbv::::res://Assets/ANDYB.TTF<>uid://cndcet56cj8w2::::res://19 - Minish Woods - The Legend Of Zelda The Minish Cap OST.mp3
+Guide.tscn::PackedScene::3739640044591354406::1739325233::0::1::::<><>::res://Scripts/guide.gd
+Karya1.tscn::PackedScene::7813317927228921133::1739932180::0::1::::<><>::res://ScriptCSharp/Karya1.cs<>res://Scripts/karya1_btn.gd
+Karya2.tscn::PackedScene::4331956597915852111::1739932180::0::1::::<><>::res://ScriptCsharp/Karya2.cs
+Welcome.tscn::PackedScene::1560407637473893752::1739932180::0::1::::<><>::res://ScriptCSharp/welcome.cs<>uid://p4b1pc254u6a::::res://Assets/(n) 1.png<>uid://cndcet56cj8w2::::res://19 - Minish Woods - The Legend Of Zelda The Minish Cap OST.mp3<>uid://cuo7c7qe8uvvc::::res://Assets/custom-terraria-logo.png<>uid://by4r53q8xtfbv::::res://Assets/ANDYB.TTF
+::res://ScriptCSharp/::1739932177
+about.cs::CSharpScript::-1::1739932177::0::1::::<><>::
+bentukdasar.cs::CSharpScript::-1::1739932177::0::1::::bentukdasar<>Node2D<>::
+guide.cs::CSharpScript::-1::1739932177::0::1::::<><>::
+karya1.cs::CSharpScript::-1::1739932177::0::1::::<>Node2D<>::
+karya1_btn.cs::CSharpScript::-1::1739932177::0::1::::<><>::
+karya2.cs::CSharpScript::-1::1739932177::0::1::::<><>::
+karya2_btn.cs::CSharpScript::-1::1739932177::0::1::::<><>::
+primitif.cs::CSharpScript::-1::1739932177::0::1::::primitif<>RefCounted<>::
+welcome.cs::CSharpScript::-1::1739932177::0::1::::<>Control<>::
+::res://Scripts/::1739932177
+about.gd::GDScript::-1::1739932177::0::1::::<>Control<>::
+guide.gd::GDScript::-1::1739932177::0::1::::<>Control<>::
+karya1.gd::GDScript::-1::1739932177::0::1::::<>Node2D<>::
+karya1_btn.gd::GDScript::-1::1739932177::0::1::::<>Button<>::
+karya2.gd::GDScript::-1::1739932177::0::1::::<>Node2D<>::
+karya2_btn.gd::GDScript::-1::1739932177::0::1::::<>Button<>::
+primitif.gd::GDScript::-1::1739932177::0::1::::primitif<>RefCounted<>::
+welcome.gd::GDScript::-1::1739932177::0::1::::<>Control<>::
