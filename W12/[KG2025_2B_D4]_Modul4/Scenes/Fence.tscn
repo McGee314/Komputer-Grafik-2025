@@ -1,0 +1,31 @@
+[gd_scene load_steps=10 format=3 uid="uid://duvtvsd67q2ei"]
+
+[ext_resource type="PackedScene" uid="uid://hft0phwlaigs" path="res://City Kit Suburban/Models/GLB format/fence-1x2.glb" id="1_c1odx"]
+[ext_resource type="PackedScene" uid="uid://dg8lyi653q7dn" path="res://City Kit Suburban/Models/GLB format/fence-1x3.glb" id="2_02g4l"]
+[ext_resource type="PackedScene" uid="uid://b31e2xaofjcyk" path="res://City Kit Suburban/Models/GLB format/fence-1x4.glb" id="3_42cr2"]
+[ext_resource type="PackedScene" uid="uid://iyvnjv28dl8d" path="res://City Kit Suburban/Models/GLB format/fence-2x2.glb" id="4_5njut"]
+[ext_resource type="PackedScene" uid="uid://dcbe7jcwqvp3y" path="res://City Kit Suburban/Models/GLB format/fence-2x3.glb" id="5_ew30f"]
+[ext_resource type="PackedScene" uid="uid://b8k26dy57ybgu" path="res://City Kit Suburban/Models/GLB format/fence-3x2.glb" id="6_21kdy"]
+[ext_resource type="PackedScene" uid="uid://bjvh5liio402l" path="res://City Kit Suburban/Models/GLB format/fence-3x3.glb" id="7_vmh31"]
+[ext_resource type="PackedScene" uid="uid://dy841b5gys5vp" path="res://City Kit Suburban/Models/GLB format/fence-low.glb" id="8_bajx8"]
+[ext_resource type="PackedScene" uid="uid://cxbt7kh3h8e4p" path="res://City Kit Suburban/Models/GLB format/fence.glb" id="9_msf45"]
+
+[node name="Fence" type="Node3D"]
+
+[node name="fence-1x22" parent="." instance=ExtResource("1_c1odx")]
+
+[node name="fence-1x32" parent="." instance=ExtResource("2_02g4l")]
+
+[node name="fence-1x42" parent="." instance=ExtResource("3_42cr2")]
+
+[node name="fence-2x22" parent="." instance=ExtResource("4_5njut")]
+
+[node name="fence-2x32" parent="." instance=ExtResource("5_ew30f")]
+
+[node name="fence-3x22" parent="." instance=ExtResource("6_21kdy")]
+
+[node name="fence-3x32" parent="." instance=ExtResource("7_vmh31")]
+
+[node name="fence-low2" parent="." instance=ExtResource("8_bajx8")]
+
+[node name="fence2" parent="." instance=ExtResource("9_msf45")]

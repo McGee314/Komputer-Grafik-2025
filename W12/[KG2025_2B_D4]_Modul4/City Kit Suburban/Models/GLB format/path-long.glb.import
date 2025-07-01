@@ -13,7 +13,7 @@ dest_files=["res://.godot/imported/path-long.glb-3b78e204c5a5a102e18d88606a5d633
 
 [params]
 
-nodes/root_type=""
+nodes/root_type="Area3D"
 nodes/root_name=""
 nodes/apply_root_scale=true
 nodes/root_scale=1.0
